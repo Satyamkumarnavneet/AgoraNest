@@ -342,7 +342,7 @@ bash start_care_app.sh  # Launches with emergency protocols enabled
 </td>
 <td width="50%">
 
-### Video Call Integration
+### Video Generator Integration
 <img src="screenshot/video.png" alt="Video Call" width="100%"/>
 
 </td>
